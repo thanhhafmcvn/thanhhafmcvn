@@ -1,6 +1,6 @@
 ### Hello, Github user 👋
 
-I am 14-year-old front-end development learner. Here somethings about me: 
+I am 16-year-old front-end development learner. Here somethings about me: 
 - 💻 I'm studying at: MindX Technology school.
 - 📚 I'm currently studying: Front-end development (HTML, CSS, JavaScript).
 - 📡 Reach me at: [Instagram](instagram.com/thanhhafmcvn), [Reddit](reddit.com/u/mlucastero), thanhhafmcvn#3586.
